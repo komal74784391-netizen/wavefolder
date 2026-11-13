@@ -1,4 +1,4 @@
-# Wavefolder (MOD-WF7) (MOD-WF7)
+# Wavefolder (MOD-WF7)
 
 Voltage-controlled wavefolder with stepped symmetry.
 

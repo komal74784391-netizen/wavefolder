@@ -1,4 +1,4 @@
-# Wavefolder (MOD-WF7) assembly notes
+# Wavefolder assembly notes
 
 1. Populate the power section first and verify +/-12 V rails before fitting
    the analog board.

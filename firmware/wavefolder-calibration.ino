@@ -1,4 +1,4 @@
-// Wavefolder (MOD-WF7) calibration firmware
+// Wavefolder calibration firmware
 // Lumen Rack Collective - production revision
 #include <avr/io.h>
 #include <util/delay.h>

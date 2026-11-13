@@ -3,7 +3,7 @@
   (general (thickness 1.6) (legacy_teardrops no))
   (paper "A4")
   (title_block
-    (title "Wavefolder (MOD-WF7) front panel")
+    (title "Wavefolder front panel")
     (rev "A")
     (company "Lumen Rack Collective")
   )
@@ -23,5 +23,5 @@
     (pad "" np_thru_hole circle (at 0 0) (size 3.2 3.2) (drill 3.2))
   )
   (gr_rect (start 100 100) (end 112 106) (layer "Edge.Cuts") (width 0.15))
-  (gr_text "WAVEFOLDER-(MOD-WF7)" (at 20 4) (layer "F.SilkS") (effects (font (size 1 1) (thickness 0.15))))
+  (gr_text "WAVEFOLDER" (at 20 4) (layer "F.SilkS") (effects (font (size 1 1) (thickness 0.15))))
 )
